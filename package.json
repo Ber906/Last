@@ -58,6 +58,7 @@
     "requests": "^0.3.0",
     "semver": "latest",
     "sequelize": "^6.17.0",
+    "@sindresorhus/is": "^6.0.1",
     "simple-youtube-api": "^5.2.1",
     "socket.io": "^4.7.2",
     "soundcloud-downloader": "^1.0.0",
